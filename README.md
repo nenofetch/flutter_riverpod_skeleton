@@ -1,16 +1,21 @@
 # flutter_riverpod_skeleton
 
-A new Flutter project.
+Skeleton for Riverpod state management by following Clean Architecture (Separation of Concern).
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## How to use
+1. Clone this repository
+```bash
+$ git clone https://github.com/nenofetch/flutter_riverpod_skeleton
+```
+2. Change to directory was cloning before
+1. Get the dependencies/library using
+```bash
+flutter pub add
+```
+4. And you're ready to develop!
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Licenses
+This repo using [MIT](https://github.com/nenofetch/flutter_riverpod_skeleton/blob/main/LICENSE). Feel free if you want to contribute on this repository or modify.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
