@@ -11,7 +11,7 @@ $ git clone https://github.com/nenofetch/flutter_riverpod_skeleton
 2. Change to directory was cloning before
 1. Get the dependencies/library using
 ```bash
-flutter pub add
+flutter pub get
 ```
 4. And you're ready to develop!
 
